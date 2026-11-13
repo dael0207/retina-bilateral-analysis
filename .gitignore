@@ -10,5 +10,6 @@ data/
 outputs/
 *.zip
 *.pdf
+!html-demo/report.pdf
 *.bin
 *.log

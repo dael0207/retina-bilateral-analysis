@@ -18,6 +18,14 @@
 
 ![오프라인 양안 분석 화면](docs/images/overview.png)
 
+## 설치 없이 HTML로 시연하기
+
+[**HTML 시연 소스와 자산**](html-demo/) · [**배포된 웹 시연**](https://retina-bilateral-dael0207.daelj.chatgpt.site) · [**HTML ZIP 다운로드**](https://github.com/dael0207/retina-bilateral-analysis/releases/download/v1.1.0/assignment1-html.zip)
+
+저장소를 내려받아 `html-demo/index.html`을 브라우저로 열면 됩니다. 양안 사례 10쌍의 등급 차이 필터, 차트, 집계 JSON과 PDF 보고서가 모두 포함되어 있어 Python 설치가 필요 없습니다.
+
+> 배포 사이트는 현재 소유자 전용입니다. 교수님 등 다른 사람이 웹 링크를 열려면 사이트 공유 범위를 별도로 변경해야 합니다. GitHub 저장소와 릴리스도 비공개입니다.
+
 ## 결과 한눈에 보기
 
 | 지표 | 결과 | 의미 |
