@@ -1,0 +1,14 @@
+.venv/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+
+# Supplied source data and patient-level generated artifacts stay local.
+trainLabels.csv
+data/
+outputs/
+*.zip
+*.pdf
+*.bin
+*.log
